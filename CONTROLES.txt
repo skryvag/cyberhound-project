@@ -1,0 +1,6 @@
+WASD, Setas - movimento
+Enter - começa o jogo
+P - pausar
+Q - fechar
+
+As cápsulas verdes são vidas extras - colete uma para recuperar um ponto de saúde.
